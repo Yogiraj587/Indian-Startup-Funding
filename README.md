@@ -19,5 +19,7 @@ The dataset is scraped from https://trak.in/india-startup-funding-investment-201
 
 
 ![image1](https://user-images.githubusercontent.com/84268500/210264962-306acc4b-760e-4e1c-ba50-f77a5b531cd7.jpeg)
+
 ![image2](https://user-images.githubusercontent.com/84268500/210264976-cfe8ea02-8568-4d4b-ac61-82f00a567089.jpeg)
+
 ![image3](https://user-images.githubusercontent.com/84268500/210264981-b32f2f86-fb9f-4cee-a5b6-4ac0f6c54958.jpeg)
