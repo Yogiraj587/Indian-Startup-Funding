@@ -17,12 +17,7 @@ The dataset is scraped from https://trak.in/india-startup-funding-investment-201
    3.3 Impact of cities on startup funding
    3.4 Finding the top 5 investors
 
-![image](https://user-images.githubusercontent.com/84268500/210264448-d6e18a29-2d42-4239-bf08-a3f2179f9e2b.png)
 
-![image](https://user-images.githubusercontent.com/84268500/210264468-edd033a9-6ae5-4f59-94b2-c94128da22f5.png)
-
-![image](https://user-images.githubusercontent.com/84268500/210264476-01422f0d-b3db-4604-9d80-0e2a42f5d715.png)
-
-
-
-
+![image1](https://user-images.githubusercontent.com/84268500/210264962-306acc4b-760e-4e1c-ba50-f77a5b531cd7.jpeg)
+![image2](https://user-images.githubusercontent.com/84268500/210264976-cfe8ea02-8568-4d4b-ac61-82f00a567089.jpeg)
+![image3](https://user-images.githubusercontent.com/84268500/210264981-b32f2f86-fb9f-4cee-a5b6-4ac0f6c54958.jpeg)
